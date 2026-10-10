@@ -1,7 +1,5 @@
 node_modules/
 dist/
-.sites-runtime/
 *.tsbuildinfo
 .DS_Store
 .vercel/
-.openai/
